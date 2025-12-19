@@ -1,4 +1,4 @@
-# Git Course
+# Git
 Readme File.
 
 # this is a change from feature branch
