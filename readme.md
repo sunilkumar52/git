@@ -7,8 +7,5 @@ Readme File.
 
 # this is commit 1
 
-# this is commit 2
-
-# this is commit 3
-
-# this is commit 4
+# this is priority task
+# i am working on a non priority task
